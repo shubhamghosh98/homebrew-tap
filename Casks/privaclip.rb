@@ -1,6 +1,6 @@
 cask "privaclip" do
   version "1.0.1"
-  sha256 "693ab4cc9b5cbf405d4a0f4c423ce5c42dd6a55978714d94e28eb6f339e0712a"
+  sha256 "23c8a97bcf05baca8133728f0104780984e2459d078093fdecbcc97f87111cc8"
 
   url "https://github.com/shubhamghosh98/privaclip/releases/download/v#{version}/PrivaClip-macOS-arm64.zip"
   name "PrivaClip"
