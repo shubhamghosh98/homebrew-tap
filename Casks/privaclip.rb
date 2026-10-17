@@ -1,8 +1,7 @@
 cask "privaclip" do
-  version "1.0.0"
-  sha256 "fd0f20ceacdd8569a7ebd8bcc27ff904c1d7bb6209a1fe97c9680f9bed6f71bd"
+  version "1.0.1"
+  sha256 "693ab4cc9b5cbf405d4a0f4c423ce5c42dd6a55978714d94e28eb6f339e0712a"
 
-  # Replace <GITHUB_USERNAME> with your actual GitHub username or organization
   url "https://github.com/shubhamghosh98/privaclip/releases/download/v#{version}/PrivaClip-macOS-arm64.zip"
   name "PrivaClip"
   desc "Privacy-first, native Apple Silicon clipboard manager with hardware AES-GCM encryption"
